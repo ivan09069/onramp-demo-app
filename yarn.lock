@@ -2179,6 +2179,13 @@
   dependencies:
     "@swc/helpers" "^0.5.0"
 
+"@react-aria/ssr@^3.9.7":
+  version "3.9.8"
+  resolved "https://registry.yarnpkg.com/@react-aria/ssr/-/ssr-3.9.8.tgz#9c06f1860abac629517898c1b5424be5d03bc112"
+  integrity sha512-lQDE/c9uTfBSDOjaZUJS8xP2jCKVk4zjQeIlCH90xaLhHDgbpCdns3xvFpJJujfj3nI4Ll9K7A+ONUBDCASOuw==
+  dependencies:
+    "@swc/helpers" "^0.5.0"
+
 "@react-aria/switch@3.6.2":
   version "3.6.2"
   resolved "https://registry.yarnpkg.com/@react-aria/switch/-/switch-3.6.2.tgz#a790b97ffcdd4104d4a8167229a4eb73455f7d4b"
